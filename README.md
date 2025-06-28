@@ -3,6 +3,9 @@
 
 A rewrite of [SkidChat](https://github.com/sqlskid/SkidChat-old), encrypted chatting program written in Java.
 
+![login](https://xellu.xyz/api/v2/files/c8cc8b4be6db423e8fb85ff0060ffea4-b7cbQEaQMNDr.png)
+![chat](https://xellu.xyz/api/v2/files/7c1ee0dde1ef4e49b8b2a381d8fb3b72-RxrOaDnES38e.png)
+
 # How to use
 
 Either build your own client & server or download the one from releases.
