@@ -1,0 +1,15 @@
+# SkidChat Server Configuration
+name: A SkidChat Server # Name of the server, will be sent to clients
+port: 3386 # Port on which the server will run
+max-connections: 100 # Maximum number of connections allowed
+channels: # List of channels available on the server
+  - general
+  - questions
+  - politics
+log-channel-messages: true # Whether to log channel messages to a file
+whitelist: false # Whether to enable a whitelist for user connections
+whitelisted-usernames: # List of usernames that are whitelisted
+  - eric
+  - bob
+  - kai
+  - luna
